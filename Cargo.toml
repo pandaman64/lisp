@@ -1,0 +1,8 @@
+[package]
+name = "scheme"
+version = "0.1.0"
+authors = ["pandaman64 <kointosudesuyo@infoseek.jp>"]
+edition = "2018"
+
+[dependencies]
+combine = "3.6"
